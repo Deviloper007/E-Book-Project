@@ -1,0 +1,15 @@
+::-webkit-scrollbar{
+    width: 20px;
+}
+::-webkit-scrollbar-track{
+    border: 1px solid rgb(250, 238, 132);
+    
+}
+::-webkit-scrollbar-thumb{
+    background: linear-gradient(
+        45deg,
+        yellow,
+        orange
+    );
+    border-radius: 5px;
+}
